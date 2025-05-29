@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.web\\controllers\\bookimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.web\\controllers\\bookimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6900FC78-1A3D-4B92-978A-6D1D37676750}|BookManagement.Web\\BookManagement.Presentation.csproj|solutionrelative:bookmanagement.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C961D001-0ECD-4395-9B8F-BBD315CDBA6A}|BookManagement.Infrastructure\\BookManagement.DAL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.infrastructure\\repositories\\bookrepository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C961D001-0ECD-4395-9B8F-BBD315CDBA6A}|BookManagement.Infrastructure\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.infrastructure\\repositories\\bookrepository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C961D001-0ECD-4395-9B8F-BBD315CDBA6A}|BookManagement.Infrastructure\\BookManagement.DAL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.infrastructure\\interfaces\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C961D001-0ECD-4395-9B8F-BBD315CDBA6A}|BookManagement.Infrastructure\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.infrastructure\\interfaces\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C961D001-0ECD-4395-9B8F-BBD315CDBA6A}|BookManagement.Infrastructure\\BookManagement.DAL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.infrastructure\\bookmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C961D001-0ECD-4395-9B8F-BBD315CDBA6A}|BookManagement.Infrastructure\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.infrastructure\\bookmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035BC3E9-49CE-400C-85B7-A9ED97EB10D3}|BookManagement.Core\\BookManagement.Core.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035BC3E9-49CE-400C-85B7-A9ED97EB10D3}|BookManagement.Core\\BookManagement.Core.csproj|solutionrelative:bookmanagement.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035BC3E9-49CE-400C-85B7-A9ED97EB10D3}|BookManagement.Core\\BookManagement.Core.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.core\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035BC3E9-49CE-400C-85B7-A9ED97EB10D3}|BookManagement.Core\\BookManagement.Core.csproj|solutionrelative:bookmanagement.core\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\userservice\\adduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\userservice\\adduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\rolesseederservice\\rolesseederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\rolesseederservice\\rolesseederservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookuserservice\\assignbooktouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookuserservice\\assignbooktouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookservice\\updatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookservice\\updatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookservice\\getbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookservice\\getbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookservice\\createbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookservice\\createbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookimageservice\\updatebookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookimageservice\\updatebookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookimageservice\\getbookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookimageservice\\getbookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookimageservice\\getallbookimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookimageservice\\getallbookimagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookimageservice\\deletebookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookimageservice\\deletebookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\bookimageservice\\addbookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\bookimageservice\\addbookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\authorservice\\getallauthorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\authorservice\\getallauthorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\authorservice\\deleteauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\authorservice\\deleteauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\services\\authorservice\\createauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\services\\authorservice\\createauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\userinterface\\iupdateuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\userinterface\\iupdateuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\userinterface\\igetuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\userinterface\\igetuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\userinterface\\igetallusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\userinterface\\igetallusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\userinterface\\iadduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\userinterface\\iadduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\jwttokenservice\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\jwttokenservice\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\genreinterface\\iupdategenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\genreinterface\\iupdategenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\genreinterface\\igetgenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\genreinterface\\igetgenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\genreinterface\\igetallgenresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\genreinterface\\igetallgenresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\genreinterface\\icreategenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\genreinterface\\icreategenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookuserinterface\\iremovebookfromuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookuserinterface\\iremovebookfromuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookuserinterface\\igetuserbooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookuserinterface\\igetuserbooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookuserinterface\\iassignbooktouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookuserinterface\\iassignbooktouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookinterface\\iupdatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookinterface\\iupdatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookinterface\\igetallbooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookinterface\\igetallbooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookinterface\\icreatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookinterface\\icreatebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\interfaces\\services\\bookimageinterface\\igetbookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\interfaces\\services\\bookimageinterface\\igetbookimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|e:\\benchmark\\.net(core)\\practise\\bookmanagement.web\\bookmanagement.services\\dtos\\bookimagedtos\\bookimageuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DDF88F-E43A-4EAF-8398-D7EE269A595F}|BookManagement.Services\\BookManagement.BL.csproj|solutionrelative:bookmanagement.services\\dtos\\bookimagedtos\\bookimageuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookManagement.DAL",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Infrastructure\\BookManagement.DAL.csproj",
+              "RelativeDocumentMoniker": "BookManagement.Infrastructure\\BookManagement.DAL.csproj",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Infrastructure\\BookManagement.DAL.csproj",
+              "RelativeToolTip": "BookManagement.Infrastructure\\BookManagement.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T17:31:53.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Infrastructure\\Interfaces\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookManagement.Infrastructure\\Interfaces\\Repositories\\IBookRepository.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Infrastructure\\Interfaces\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "BookManagement.Infrastructure\\Interfaces\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:08:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Infrastructure\\Repositories\\BookRepository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookManagement.Infrastructure\\Repositories\\BookRepository\\BookRepository.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Infrastructure\\Repositories\\BookRepository\\BookRepository.cs",
+              "RelativeToolTip": "BookManagement.Infrastructure\\Repositories\\BookRepository\\BookRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA5wEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:08:47.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookManagement.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookManagement.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAACwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:30:54.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookManagement.Web\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookManagement.Web\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:27:49.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookImageController.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Controllers\\BookImageController.cs",
+              "RelativeDocumentMoniker": "BookManagement.Web\\Controllers\\BookImageController.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Controllers\\BookImageController.cs",
+              "RelativeToolTip": "BookManagement.Web\\Controllers\\BookImageController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:53:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement.Web\\Program.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\Program.cs",
+              "RelativeToolTip": "BookManagement.Web\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:11:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Core\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "BookManagement.Core\\Entities\\AuditLog.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Core\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "BookManagement.Core\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:31:15.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\UserService\\AddUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\UserService\\AddUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\UserService\\AddUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\UserService\\AddUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:30:48.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssignBookToUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookUserService\\AssignBookToUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookUserService\\AssignBookToUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookUserService\\AssignBookToUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookUserService\\AssignBookToUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:29:45.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateBookService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookService\\UpdateBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookService\\UpdateBookService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookService\\UpdateBookService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookService\\UpdateBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:29:32.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetBookService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookService\\GetBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookService\\GetBookService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookService\\GetBookService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookService\\GetBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:29:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetBookImageService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\GetBookImageService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookImageService\\GetBookImageService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\GetBookImageService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookImageService\\GetBookImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:29:08.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Core\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement.Core\\Entities\\Book.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Core\\Entities\\Book.cs",
+              "RelativeToolTip": "BookManagement.Core\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:50:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetAllBookImagesService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\GetAllBookImagesService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookImageService\\GetAllBookImagesService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\GetAllBookImagesService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookImageService\\GetAllBookImagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:28:38.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolesSeederService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\RolesSeederService\\RolesSeederService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\RolesSeederService\\RolesSeederService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\RolesSeederService\\RolesSeederService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\RolesSeederService\\RolesSeederService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:54:39.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteBookImageService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\DeleteBookImageService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookImageService\\DeleteBookImageService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\DeleteBookImageService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookImageService\\DeleteBookImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:28:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateBookImageService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\UpdateBookImageService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookImageService\\UpdateBookImageService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\UpdateBookImageService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookImageService\\UpdateBookImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:08:57.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBookService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookService\\CreateBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookService\\CreateBookService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookService\\CreateBookService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookService\\CreateBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:05:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddBookImageService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\AddBookImageService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\BookImageService\\AddBookImageService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\BookImageService\\AddBookImageService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\BookImageService\\AddBookImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:28:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllAuthorsService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\AuthorService\\GetAllAuthorsService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\AuthorService\\GetAllAuthorsService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\AuthorService\\GetAllAuthorsService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\AuthorService\\GetAllAuthorsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:28:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteAuthorService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\AuthorService\\DeleteAuthorService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\AuthorService\\DeleteAuthorService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\AuthorService\\DeleteAuthorService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\AuthorService\\DeleteAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:27:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateAuthorService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\AuthorService\\CreateAuthorService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Services\\AuthorService\\CreateAuthorService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Services\\AuthorService\\CreateAuthorService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Services\\AuthorService\\CreateAuthorService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:27:45.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUpdateUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IUpdateUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IUpdateUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IUpdateUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IUpdateUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:27:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IGetUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:27:23.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IGetAllUsersService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetAllUsersService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetAllUsersService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetAllUsersService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IGetAllUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:27:16.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAddUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IAddUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IAddUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\UserInterface\\IAddUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\UserInterface\\IAddUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:27:03.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\JwtTokenService\\IJwtService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\JwtTokenService\\IJwtService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\JwtTokenService\\IJwtService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\JwtTokenService\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUpdateGenreService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IUpdateGenreService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IUpdateGenreService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IUpdateGenreService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IUpdateGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:41.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGetGenreService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetGenreService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetGenreService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetGenreService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGetAllGenresService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetAllGenresService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetAllGenresService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetAllGenresService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\IGetAllGenresService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICreateGenreService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\ICreateGenreService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\ICreateGenreService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\GenreInterface\\ICreateGenreService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\GenreInterface\\ICreateGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRemoveBookFromUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IRemoveBookFromUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IRemoveBookFromUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IRemoveBookFromUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IRemoveBookFromUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:26:05.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IGetUserBooksService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IGetUserBooksService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IGetUserBooksService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IGetUserBooksService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IGetUserBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:25:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IAssignBookToUserService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IAssignBookToUserService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IAssignBookToUserService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IAssignBookToUserService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookUserInterface\\IAssignBookToUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:25:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUpdateBookService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookInterface\\IUpdateBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookInterface\\IUpdateBookService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookInterface\\IUpdateBookService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookInterface\\IUpdateBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:25:35.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGetAllBooksService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookInterface\\IGetAllBooksService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookInterface\\IGetAllBooksService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookInterface\\IGetAllBooksService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookInterface\\IGetAllBooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:25:24.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGetBookImageService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookImageInterface\\IGetBookImageService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookImageInterface\\IGetBookImageService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookImageInterface\\IGetBookImageService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookImageInterface\\IGetBookImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:25:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookImageUploadRequest.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\DTOs\\BookImageDTOs\\BookImageUploadRequest.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\DTOs\\BookImageDTOs\\BookImageUploadRequest.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\DTOs\\BookImageDTOs\\BookImageUploadRequest.cs",
+              "RelativeToolTip": "BookManagement.Services\\DTOs\\BookImageDTOs\\BookImageUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:24:52.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICreateBookService.cs",
+              "DocumentMoniker": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookInterface\\ICreateBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.Services\\Interfaces\\Services\\BookInterface\\ICreateBookService.cs",
+              "ToolTip": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Services\\Interfaces\\Services\\BookInterface\\ICreateBookService.cs",
+              "RelativeToolTip": "BookManagement.Services\\Interfaces\\Services\\BookInterface\\ICreateBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:31:40.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

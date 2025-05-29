@@ -1,0 +1,17 @@
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.DAL.deps.json
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.DAL.runtimeconfig.json
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.DAL.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.DAL.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Core.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Core.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.csproj.AssemblyReference.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.AssemblyInfoInputs.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.AssemblyInfo.cs
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.csproj.CoreCompileInputs.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookMana.C083951F.Up2Date
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\refint\BookManagement.DAL.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.DAL.genruntimeconfig.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\ref\BookManagement.DAL.dll

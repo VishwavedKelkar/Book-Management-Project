@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "7YQXVub8KD5diCdv8GHO/vqFK+WuzD8wy5n/7+NGT/Y=",
+  "Source": "BookManagement.Presentation",
+  "BasePath": "_content/BookManagement.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookManagement.Presentation\\wwwroot",
+      "Source": "BookManagement.Presentation",
+      "ContentRoot": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\",
+      "BasePath": "_content/BookManagement.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\339d0d4b-1702-40d6-94a0-ceb931bb7975.jpg",
+      "SourceId": "BookManagement.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\",
+      "BasePath": "_content/BookManagement.Presentation",
+      "RelativePath": "uploads/339d0d4b-1702-40d6-94a0-ceb931bb7975#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "joxiotjjtq",
+      "Integrity": "/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\339d0d4b-1702-40d6-94a0-ceb931bb7975.jpg"
+    },
+    {
+      "Identity": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\d50c169f-84e1-4794-8fb0-6496cafd19a6.jpg",
+      "SourceId": "BookManagement.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\",
+      "BasePath": "_content/BookManagement.Presentation",
+      "RelativePath": "uploads/d50c169f-84e1-4794-8fb0-6496cafd19a6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "joxiotjjtq",
+      "Integrity": "/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d50c169f-84e1-4794-8fb0-6496cafd19a6.jpg"
+    },
+    {
+      "Identity": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\f4f114bb-0361-4f3a-bd4e-9239b927486e.jpg",
+      "SourceId": "BookManagement.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\",
+      "BasePath": "_content/BookManagement.Presentation",
+      "RelativePath": "uploads/f4f114bb-0361-4f3a-bd4e-9239b927486e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "netxs7ph70",
+      "Integrity": "H/thripfJ5RDhIp/3XGH91bIBkYAzvPbsTdc0rUFF9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f4f114bb-0361-4f3a-bd4e-9239b927486e.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/339d0d4b-1702-40d6-94a0-ceb931bb7975.joxiotjjtq.jpg",
+      "AssetFile": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\339d0d4b-1702-40d6-94a0-ceb931bb7975.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 10:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "joxiotjjtq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/339d0d4b-1702-40d6-94a0-ceb931bb7975.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/339d0d4b-1702-40d6-94a0-ceb931bb7975.jpg",
+      "AssetFile": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\339d0d4b-1702-40d6-94a0-ceb931bb7975.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 10:19:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d50c169f-84e1-4794-8fb0-6496cafd19a6.joxiotjjtq.jpg",
+      "AssetFile": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\d50c169f-84e1-4794-8fb0-6496cafd19a6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 10:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "joxiotjjtq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d50c169f-84e1-4794-8fb0-6496cafd19a6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d50c169f-84e1-4794-8fb0-6496cafd19a6.jpg",
+      "AssetFile": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\d50c169f-84e1-4794-8fb0-6496cafd19a6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 10:51:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/eh095eK9l6/ZZH3FJ2QoHf13nR1o7WWTigV6X1iLrQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f4f114bb-0361-4f3a-bd4e-9239b927486e.jpg",
+      "AssetFile": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\f4f114bb-0361-4f3a-bd4e-9239b927486e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H/thripfJ5RDhIp/3XGH91bIBkYAzvPbsTdc0rUFF9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 11:31:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H/thripfJ5RDhIp/3XGH91bIBkYAzvPbsTdc0rUFF9g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f4f114bb-0361-4f3a-bd4e-9239b927486e.netxs7ph70.jpg",
+      "AssetFile": "E:\\Benchmark\\.NET(CORE)\\Practise\\BookManagement.Web\\BookManagement.Web\\wwwroot\\uploads\\f4f114bb-0361-4f3a-bd4e-9239b927486e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H/thripfJ5RDhIp/3XGH91bIBkYAzvPbsTdc0rUFF9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 11:31:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "netxs7ph70"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f4f114bb-0361-4f3a-bd4e-9239b927486e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H/thripfJ5RDhIp/3XGH91bIBkYAzvPbsTdc0rUFF9g="
+        }
+      ]
+    }
+  ]
+}

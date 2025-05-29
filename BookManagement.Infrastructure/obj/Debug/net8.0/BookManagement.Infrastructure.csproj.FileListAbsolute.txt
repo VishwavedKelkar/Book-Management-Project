@@ -1,0 +1,17 @@
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.deps.json
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.runtimeconfig.json
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Infrastructure.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Core.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\bin\Debug\net8.0\BookManagement.Core.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.AssemblyInfo.cs
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookMana.A332F634.Up2Date
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\refint\BookManagement.Infrastructure.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\BookManagement.Infrastructure.genruntimeconfig.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Infrastructure\obj\Debug\net8.0\ref\BookManagement.Infrastructure.dll

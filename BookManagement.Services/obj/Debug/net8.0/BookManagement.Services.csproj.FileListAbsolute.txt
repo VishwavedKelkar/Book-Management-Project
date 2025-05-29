@@ -1,0 +1,14 @@
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\bin\Debug\net8.0\BookManagement.Services.deps.json
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\bin\Debug\net8.0\BookManagement.Services.runtimeconfig.json
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\bin\Debug\net8.0\BookManagement.Services.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\bin\Debug\net8.0\BookManagement.Services.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.csproj.AssemblyReference.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.AssemblyInfoInputs.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.AssemblyInfo.cs
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.csproj.CoreCompileInputs.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\refint\BookManagement.Services.dll
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.pdb
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\BookManagement.Services.genruntimeconfig.cache
+E:\Benchmark\.NET(CORE)\Practise\BookManagement.Web\BookManagement.Services\obj\Debug\net8.0\ref\BookManagement.Services.dll
